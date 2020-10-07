@@ -1,0 +1,7 @@
+C:\Users\marti\Desktop\ejercicio-exceptiones-mhaas20\Manejo de excepciones\Manejo de excepciones\bin\Debug\Manejo de excepciones.exe.config
+C:\Users\marti\Desktop\ejercicio-exceptiones-mhaas20\Manejo de excepciones\Manejo de excepciones\bin\Debug\Manejo de excepciones.exe
+C:\Users\marti\Desktop\ejercicio-exceptiones-mhaas20\Manejo de excepciones\Manejo de excepciones\bin\Debug\Manejo de excepciones.pdb
+C:\Users\marti\Desktop\ejercicio-exceptiones-mhaas20\Manejo de excepciones\Manejo de excepciones\obj\Debug\Manejo de excepciones.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\ejercicio-exceptiones-mhaas20\Manejo de excepciones\Manejo de excepciones\obj\Debug\Manejo de excepciones.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\ejercicio-exceptiones-mhaas20\Manejo de excepciones\Manejo de excepciones\obj\Debug\Manejo de excepciones.exe
+C:\Users\marti\Desktop\ejercicio-exceptiones-mhaas20\Manejo de excepciones\Manejo de excepciones\obj\Debug\Manejo de excepciones.pdb
